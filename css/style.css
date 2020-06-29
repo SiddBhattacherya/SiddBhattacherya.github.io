@@ -53,10 +53,20 @@ h2{
   padding: 20px;
 }
 
+.skills{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+
 .languages, .devTools, .electricalTools{
   vertical-align: top;
   display: inline-block;
-  margin: 20px;
+  margin-top: 0;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  padding-left: 0;
   text-align: left;
 }
 
