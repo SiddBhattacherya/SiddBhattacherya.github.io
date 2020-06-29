@@ -23,6 +23,7 @@
   text-align: center;
   padding: 14px 20px;
   text-decoration: none;
+  transition: background-color 250ms, color 250ms;
 }
 
 /* Right-aligned link */
