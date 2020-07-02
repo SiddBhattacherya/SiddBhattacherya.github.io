@@ -37,6 +37,15 @@
   color: black;
 }
 
+.date {
+  float: right;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+.job-title {
+  font-style: italic;
+}
+
 .work, .projects, .skills{
   background-color: #1abc9c;
   padding: 10px;
